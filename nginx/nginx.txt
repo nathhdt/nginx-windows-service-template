@@ -1,0 +1,1 @@
+download nginx for Windows from here: https://nginx.org/en/download.html
